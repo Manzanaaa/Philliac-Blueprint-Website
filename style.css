@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Philiac\ GFX\ .png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Philiac\ GFX\ .png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -301,7 +301,7 @@ h3{
 .Contact{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(12, 12, 12, 0.397),rgba(19, 18, 18, 0.397)),url(images/Philiac\ GFX\ .png);
+    background-image: linear-gradient(rgba(12, 12, 12, 0.397),rgba(19, 18, 18, 0.397)),url(/Philiac\ GFX\ .png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -328,20 +328,20 @@ h3{
     margin-top: 20px;
     font-weight: 600;
 }
-.icons.fa{
+.icons.fab{
     color: #100238;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
 }
-.fa-heart-o{
+.fas-heart-o{
     color:rgb(240, 12, 12);
 }
 
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Philiac\ GFX\ .png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Philiac\ GFX\ .png);
     background-position: center;
     background-size: cover;
     text-align: center;
